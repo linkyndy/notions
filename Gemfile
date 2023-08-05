@@ -18,4 +18,5 @@ group :test do
   gem 'rspec'
   # Better RSpec formatting
   gem 'fuubar'
+  gem 'webmock'
 end
