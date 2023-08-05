@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'notions/client'
 require 'notions/configuration'
 require 'notions/logger'
 require 'notions/version'
